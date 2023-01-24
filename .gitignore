@@ -22,3 +22,12 @@ gitignore
 # System Files
 .DS_Store
 Thumbs.db
+
+# .vscode
+.vscode
+
+
+# package locks
+
+yarn.lock
+package-lock.json
